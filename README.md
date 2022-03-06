@@ -1,5 +1,6 @@
 # Cookie-s-tos
 My bots tos
+
 **WHAT DATA DO WE STORE?**
 We do not collect any personal information relating your account like Passwords or any other Credentials. The data we collect includes the User IDs, Server IDs, Channel IDs and Some Role IDs. The bot never requests for any personal data of the users and any act that breaks the Tos of Discord is discouraged by us!
 
